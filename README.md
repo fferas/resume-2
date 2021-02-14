@@ -4,6 +4,48 @@ Max Filenko
 Backend engineer
 ----------------
 
+### Senior backend developer @ FREE NOW (formerly mytaxi)
+
+<sup>August 2019 – Present</sup>
+
+What I do:
+
+* Building platform for multimodal mobility offerings (e.g., scooters, bikes, carsharing) in a taxi app
+* Integrating third-party APIs
+* Shaping target architecture of the platform
+
+What I have learned:
+
+* Trunk-based development
+* Spring Boot and Kotlin
+* Resilience in distributed systems
+* Observability
+
+What I have achieved:
+
+* Influenced both system design and development workflows
+
+### Senior backend developer @ SHARE NOW (formerly car2go)
+
+<sup>January 2018 – July 2019</sup>
+
+What I did:
+
+* Split monolithic Java backend into Node.js microservices
+* Developed backend system to store and process data of 3M+ customers
+
+What I have learned:
+
+* Microservices
+* Docker
+* CI/CD
+* Twelve-Factor App
+* Event-driven architecture and RabbitMQ
+
+What I have achieved:
+
+* Microservice-oriented architecture with CI/CD in a monorepo environment
+
 ### Backend developer @ figo (now finleap connect)
 
 <sup>November 2015 – December 2017</sup>
