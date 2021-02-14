@@ -4,6 +4,29 @@ Max Filenko
 Backend engineer
 ----------------
 
+### DevOps engineer @ Kreditech
+
+<sup>June 2015 – November 2015</sup>
+
+What I did:
+
+* Designed, built and hardened infrastructure for a Rails application
+* Worked on infrastructure automation with SaltStack
+* Built highly available PostgreSQL cluster using Pgpool-II and Watchdog
+* Prototyped monitoring system using Icinga
+* Collaborated with development team to establish CD using Capistrano
+
+What I have learned:
+
+* Ruby on Rails framework
+* Load balancing using HAProxy
+* Reverse proxying using Nginx
+* Database sharding in PostgreSQL
+
+What I have achieved:
+
+* Zero downtime deployments
+
 ### Information Security Department @ First Ukrainian International Bank
 
 <sup>November 2010 – April 2015</sup>
