@@ -4,6 +4,31 @@ Max Filenko
 Backend engineer
 ----------------
 
+### Backend developer @ figo (now finleap connect)
+
+<sup>November 2015 – December 2017</sup>
+
+What I did:
+
+* Worked on RESTful API
+* Helped to turn MVP into a production-grade system
+* Defined target architecture
+* Onboarded new developers and helped to ramp up engineering force
+* Promoted functional programming
+* Advocated for async software development
+
+What I have learned:
+
+* REST
+* Node.js
+* GitFlow Workflow
+
+What I have achieved:
+
+* Turned what once was a prototype into a scalable production-ready system
+* Met time to market for new features without growing too much of technical debt
+* Built efficient team with collaborative culture
+
 ### DevOps engineer @ Kreditech
 
 <sup>June 2015 – November 2015</sup>
