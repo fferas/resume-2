@@ -4,6 +4,30 @@ Max Filenko
 Backend engineer
 ----------------
 
+### Information Security Department @ First Ukrainian International Bank
+
+<sup>November 2010 – April 2015</sup>
+
+What I did:
+
+* Built and maintained internal information security standards and policies
+* Deployed and administer security systems
+* Performed penetration tests, security audits and risk assessment
+* Conducted security researches and audits of networks, systems and applications
+* Participated in security incident response
+* Built security awareness program for employees
+
+What I have learned:
+
+* Information security standards (ISO/IEC 27001, PCI DSS)
+* Risk management
+
+What I have achieved:
+
+* Designed and implemented information security policies and standards and risk-based asset management
+* Deployed ArcSight SIEM solution and Websense DLP system
+* Piloted of IBM Security Trusteer
+
 ### Lead system administrator @ Local Global
 
 <sup>February 2009 – November 2010</sup>
